@@ -3,7 +3,7 @@
 }
 
 body{
-  font-family: "Comic Sans MS", cursive, sans-serif;
+	font-family: 'Merriweather', serif;
 }
 
 
@@ -20,12 +20,11 @@ h1{
 }
 
 .hcontent{
-	overflow: none;
 	text-align: center;
 	border:4px solid black;
 	margin-top: 0px;
 	margin-right: 5%;
-	padding:4px;
+	padding:1%;
 	height: 40px;
 	width: 100px;
 	float: right;
