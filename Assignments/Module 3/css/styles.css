@@ -1,0 +1,63 @@
+body{
+  font-size: 20px;
+  background-color: #E6E6FA;
+}
+
+.container-fluid{
+  margin: 0;
+  padding: 0;
+}
+
+#header-nav{
+  background-color: #FF69B4;
+  border-radius: 0;
+  border: 0;    
+  padding:5px;
+}
+
+.navbar-brand {
+  font-size: 35px;
+  padding-left:25px;
+}
+
+.navbar-brand p{
+  color: white;
+}
+
+.title{
+  margin-bottom: 15px;
+  text-align: center;
+  color: #696969;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+ #nav-list {
+  margin-top: 10px;
+}
+#nav-list li {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list li:hover {
+  background: #FFDAB9;
+}
+#nav-list li {
+  font-size: 1.3em;
+}
+
+.content-box{
+  margin: 25px;
+  background-color: #DEB887;
+  color: black;
+  padding: 25px;
+}
+.item-name{
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+
+.row{
+  margin: 20px;
+}
